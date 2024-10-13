@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+}
+.gallery {
+  padding: 80px 0;
+}
+.nav-link {
+  color: white !important;
+}
+.btn {
+  color: white !important;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
